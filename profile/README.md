@@ -12,7 +12,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Learning+to+code+starting+from%3A+2025-09-29" width="279" />
 </div>
 
-## <img src="../.gif/1.gif" width="60" /> Introduction
+## <img src=".gif/1.gif" width="60" /> Introduction
 I’m not a programmer. </br>
 I’m just someone who likes messing around in the CLI for fun. </br>
 I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that's **"enough for me"** to get things done. </br>
@@ -23,10 +23,10 @@ I don't really care about **"industry standards"**. </br>
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Senzdetta&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
 
 ## Contribution Graph
-<img src="../.gitaction/github-snake-tokyonight.svg" width="300" />
+<img src=".gitaction/github-snake-tokyonight.svg" width="300" />
 
 <a href="https://github.com/Senzdetta/Senzdetta">
-    <img src="../.gif/2.gif" width="80" /> </br>
+    <img src=".gif/2.gif" width="80" /> </br>
 </a>
 <code>“Still running, still learning...”</code>
 
