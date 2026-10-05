@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=180&text=Zeronetsec&fontSize=45&fontColor=c0caf5&fontAlignY=30&animation=twinkling&desc=Returning%20to%20the%20essence%20of%20a%20hobby.&descSize=20&descAlignY=50&descColor=7dcfff&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=180&text=Zeronetsec%20X%20Senzdetta&fontSize=45&fontColor=c0caf5&fontAlignY=30&animation=twinkling&desc=Returning%20to%20the%20essence%20of%20a%20hobby.&descSize=20&descAlignY=50&descColor=7dcfff&section=header" width="100%" />
 
 <div align="center">
     <img src="https://img.shields.io/badge/CLI-Addict-blue?style=square&logo=gnu-bash&v=1" width="80" />
@@ -19,15 +19,14 @@ I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that
 I don't really care about **"industry standards"**. </br>
 
 ## GitHub Stats
-<img src="https://github-readme-stats-beta-ten-76.vercel.app/api?username=Senzdetta&show_icons=true&theme=tokyonight" width="300" />
+<img src="https://github-readme-stats-beta-ten-76.vercel.app/api?username=Senzdetta&show_icons=true&rank_icon=github&theme=tokyonight" width="300" />
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Senzdetta&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
 
 ## Contribution Graph
-<img src=".gitaction/github-snake-tokyonight.svg" width="300" />
-
 <a href="https://github.com/Senzdetta/Senzdetta">
+    <img src=".gitaction/github-snake-tokyonight.svg" width="300" /> </br>
     <img src=".gif/2.gif" width="80" /> </br>
 </a>
-<code>“Still running, still learning...”</code>
 
+<code>“Still running, still learning...”</code>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer" width="100%" />
