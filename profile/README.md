@@ -6,8 +6,7 @@
     <img src="https://img.shields.io/badge/Cybersecurity-Hobbyist-blue?style=square&logo=kalilinux&logoColor=0099ff&v=1" width="133" />
     <img src="https://img.shields.io/badge/Android-Tweakers-blue?style=square&logo=android&v=1" width="110" />
     </br></br>
-    <img src="https://count.getloli.com/get/@Zeronetsec?theme=booru-lewd" width="225" />
-    <img src="https://count.getloli.com/get/@Senzdetta?theme=booru-lewd" width="0" />
+    <img src="https://count.getloli.com/get/@Zeronetsec?theme=booru-lewd&v=1" width="225" />
     </br></br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Learning+to+code+starting+from%3A+2025-09-29" width="279" />
 </div>
@@ -21,6 +20,44 @@ I don't really care about **"industry standards"**. </br>
 ## GitHub Stats
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api?username=Senzdetta&show_icons=true&rank_icon=github&theme=tokyonight" width="300" />
 <img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Senzdetta&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
+
+## Account Association
+<table>
+  <tr>
+    <td align="center" width="10" valign="top">
+      <a href="https://github.com/Senzdetta">
+        <img src="https://avatars.githubusercontent.com/u/235034757?v=4" width="50" /></br>
+        <sub><b>Senzdetta</b></sub>
+      </a>
+      <details>
+        <summary><sub>Info</sub></summary>
+        <sub>Main Account</sub>
+      </details>
+    </td>
+    <td width="10"></td>
+    <td align="center" width="10" valign="top">
+      <a href="https://github.com/Zeronetsec">
+        <img src="https://avatars.githubusercontent.com/u/337641103?v=4" width="50" /></br>
+        <sub><b>Zeronetsec</b></sub>
+      </a>
+      <details>
+        <summary><sub>Info</sub></summary>
+        <sub>Mirror of Senzdetta & legacy repos</sub>
+      </details>
+    </td>
+    <td width="10"></td>
+    <td align="center" width="10" valign="top">
+      <a href="https://github.com/Arespack">
+        <img src="https://avatars.githubusercontent.com/u/338632159?v=4" width="50" /></br>
+        <sub><b>Arespack</b></sub>
+      </a>
+      <details>
+        <summary><sub>Info</sub></summary>
+        <sub>Ares Framework packages mirror</sub>
+      </details>
+    </td>
+  </tr>
+</table>
 
 ## Contribution Graph
 <a href="https://github.com/Senzdetta/Senzdetta">
