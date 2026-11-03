@@ -18,8 +18,8 @@ I enjoy building my own custom CLI tools—nothing fancy, just simple stuff that
 I don't really care about **"industry standards"**. </br>
 
 ## GitHub Stats
-<img src="https://github-readme-stats-beta-ten-76.vercel.app/api?username=Senzdetta&show_icons=true&rank_icon=github&theme=tokyonight" width="300" />
-<img src="https://github-readme-stats-beta-ten-76.vercel.app/api/top-langs?username=Senzdetta&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
+<img src="https://github-stats-extended.vercel.app/api?username=Senzdetta&show_icons=true&rank_icon=github&theme=tokyonight" width="300" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Senzdetta&locale=en&hide_title=false&hide_border=false&layout=compact&card_width=395&langs_count=999&theme=tokyonight" width="300" />
 
 ## Account Association
 <table>
