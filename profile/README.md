@@ -29,10 +29,6 @@ I don't really care about **"industry standards"**. </br>
         <img src="https://avatars.githubusercontent.com/u/235034757?v=4" width="50" /></br>
         <sub><b>Senzdetta</b></sub>
       </a>
-      <details>
-        <summary><sub>Info</sub></summary>
-        <sub>Main Account</sub>
-      </details>
     </td>
     <td width="10"></td>
     <td align="center" width="10" valign="top">
@@ -40,10 +36,6 @@ I don't really care about **"industry standards"**. </br>
         <img src="https://avatars.githubusercontent.com/u/337641103?v=4" width="50" /></br>
         <sub><b>Zeronetsec</b></sub>
       </a>
-      <details>
-        <summary><sub>Info</sub></summary>
-        <sub>Mirror of Senzdetta & legacy repos</sub>
-      </details>
     </td>
     <td width="10"></td>
     <td align="center" width="10" valign="top">
@@ -51,10 +43,6 @@ I don't really care about **"industry standards"**. </br>
         <img src="https://avatars.githubusercontent.com/u/338632159?v=4" width="50" /></br>
         <sub><b>Arespack</b></sub>
       </a>
-      <details>
-        <summary><sub>Info</sub></summary>
-        <sub>Ares Framework packages mirror</sub>
-      </details>
     </td>
   </tr>
 </table>
